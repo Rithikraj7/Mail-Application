@@ -37,4 +37,4 @@ This is a basic email application created using Tkinter in Python. It allows you
 ## How to Run the Application
 
 ```bash
-python your_script_name.py
+python mail application.py
